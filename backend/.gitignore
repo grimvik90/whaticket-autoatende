@@ -1,0 +1,18 @@
+node_modules
+dist
+build
+.env
+.env.test
+*.bak
+
+.idea
+dist
+tsconfig.tsbuildinfo
+
+yarn.lock
+yarn-error.log
+
+
+# Ignore test-related files
+/coverage.data
+/coverage/
